@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=미래%20데이터분석가&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=미래%20데이터분석가&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Hamhamj)](https://github.com/Hamhamj)
 
